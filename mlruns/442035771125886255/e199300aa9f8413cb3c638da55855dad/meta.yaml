@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Other/ML road/Python demo/module4/heart_disease_project/mlruns/442035771125886255/e199300aa9f8413cb3c638da55855dad/artifacts
+end_time: 1774803359795
+entry_point_name: ''
+experiment_id: '442035771125886255'
+lifecycle_stage: active
+run_id: e199300aa9f8413cb3c638da55855dad
+run_name: bittersweet-toad-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774803352783
+status: 3
+tags: []
+user_id: rhars
