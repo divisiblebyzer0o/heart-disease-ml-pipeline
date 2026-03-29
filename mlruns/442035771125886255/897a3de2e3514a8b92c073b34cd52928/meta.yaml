@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Other/ML road/Python demo/module4/heart_disease_project/mlruns/442035771125886255/897a3de2e3514a8b92c073b34cd52928/artifacts
+end_time: 1774800494564
+entry_point_name: ''
+experiment_id: '442035771125886255'
+lifecycle_stage: active
+run_id: 897a3de2e3514a8b92c073b34cd52928
+run_name: adaptable-steed-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774800479131
+status: 3
+tags: []
+user_id: rhars

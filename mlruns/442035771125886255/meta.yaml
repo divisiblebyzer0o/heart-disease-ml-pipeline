@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Other/ML road/Python demo/module4/heart_disease_project/mlruns/442035771125886255
+creation_time: 1774194172261
+experiment_id: '442035771125886255'
+last_update_time: 1774194172261
+lifecycle_stage: active
+name: heart-disease-prediction
+workspace: default

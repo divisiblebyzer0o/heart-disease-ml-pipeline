@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Other/ML road/Python demo/module4/heart_disease_project/mlruns/442035771125886255/8e1dbe293e25411bb4e6c6615e91c68e/artifacts
+end_time: 1774194179385
+entry_point_name: ''
+experiment_id: '442035771125886255'
+lifecycle_stage: active
+run_id: 8e1dbe293e25411bb4e6c6615e91c68e
+run_name: omniscient-robin-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774194172467
+status: 3
+tags: []
+user_id: rhars

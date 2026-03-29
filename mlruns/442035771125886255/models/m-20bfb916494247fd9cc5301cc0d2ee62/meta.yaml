@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Other/ML road/Python demo/module4/heart_disease_project/mlruns/442035771125886255/models/m-20bfb916494247fd9cc5301cc0d2ee62/artifacts
+creation_timestamp: 1774194173020
+experiment_id: '442035771125886255'
+last_updated_timestamp: 1774194179324
+model_id: m-20bfb916494247fd9cc5301cc0d2ee62
+model_type: null
+name: heart-disease-pipeline
+source_run_id: 8e1dbe293e25411bb4e6c6615e91c68e
+status: 2
+status_message: null
